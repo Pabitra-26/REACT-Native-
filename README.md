@@ -9,3 +9,4 @@ A simple ToDo App is built using REACT Native.
 5. npm start
 
 Your first REACT app gets created.
+Note: Only the Component files are uploaded here.
